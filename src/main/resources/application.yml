@@ -1,0 +1,6 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://121.191.207.148:13306/dmtek_dev?serverTimezone=Asia/Seoul
+    username: dev_admin
+    password: mes1234!
